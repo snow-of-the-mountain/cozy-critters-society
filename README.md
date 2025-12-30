@@ -1,1 +1,1 @@
-# cozy-critter-society
+# cozy-critters-society
